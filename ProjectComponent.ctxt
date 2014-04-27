@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ProjectComponent()
+comment1.params=projectName\ projectType\ projectDescription
+comment1.target=void\ addProject(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Allows\ the\ user\ to\ create\ and\ add\ a\ project\ to\ the\ databases\r\n\ \r\n\ @param\ \ projectName,\ projectType\r\n\ @return\ \ \ \ \ Status\ String\r\n
+comment2.params=projectID\ activityName\ activityDescription
+comment2.target=void\ addActivity(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=projectID\ consultantName\ workperiod\ salery
+comment3.target=void\ addConsultant(java.lang.String,\ java.lang.String,\ int,\ int)
+numComments=4
